@@ -1,4 +1,4 @@
-# opensource_mechanicalengineering
+# Open Source for Mechanical Engineering
 Description of useful engineering data content for open collaborative mechanical engineering
 <h3>FAQ</h3>
 <p>Q: What information and data is required for community development of mechanical engineering systems?<br>
