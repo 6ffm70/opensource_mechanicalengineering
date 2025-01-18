@@ -1,5 +1,5 @@
 # Open Source for Mechanical Engineering
-Description of useful engineering data content for open collaborative mechanical engineering
+Draft for useful engineering data content for open collaborative mechanical engineering
 <h3>FAQ</h3>
 <p>Q: What information and data is required for community development of mechanical engineering systems?<br>
 A: Finding an answer to this question is the subject of this repository. You may want to use the <i>Discussions</i> feature of this repo.</p>
